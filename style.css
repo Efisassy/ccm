@@ -1,0 +1,17 @@
+
+
+#side_nav{
+    min-width: 250px;
+    max-width: 250px;
+    background: black;
+    height: auto;
+}
+.navbar-brand p{
+    font-size: 15px;
+    
+
+}
+.img-fluid{
+    height: 50
+}
+
